@@ -1,5 +1,5 @@
 {
-  "name": "koa-middleware-package",
+  "name": "@wusisu/koa-middlewares",
   "version": "2.0.0",
   "description": "A package of middlewares for koa",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1ta/koa-middleware-package.git"
+    "url": "git+https://github.com/wusisu/koa-middlewares.git"
   },
   "keywords": [
     "koa",
@@ -18,9 +18,9 @@
   "author": "wusisu <i@wusisiu.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/1ta/koa-middleware-package/issues"
+    "url": "https://github.com/wusisu/koa-middlewares/issues"
   },
-  "homepage": "https://github.com/1ta/koa-middleware-package#readme",
+  "homepage": "https://github.com/wusisu/koa-middlewares#readme",
   "dependencies": {
     "kcors": "^2.1.1",
     "koa-bodyparser": "^3.1.0",
