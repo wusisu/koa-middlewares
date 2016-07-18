@@ -1,6 +1,6 @@
 {
   "name": "@wusisu/koa-middlewares",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A package of middlewares for koa",
   "main": "index.js",
   "scripts": {
