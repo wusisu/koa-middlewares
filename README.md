@@ -14,7 +14,7 @@ import {
   morgan,
   cors,
   statics,
-  router,
+  Router,
   bodyparser,
   views,
 } from 'koa-middleware-package'
