@@ -3,7 +3,7 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.views = exports.bodyparser = exports.router = exports.statics = exports.morgan = exports.cors = exports.favicon = exports.etag = exports.conditionalGet = exports.compress = exports.responseTime = undefined;
+exports.views = exports.bodyparser = exports.Router = exports.statics = exports.morgan = exports.cors = exports.favicon = exports.etag = exports.conditionalGet = exports.compress = exports.responseTime = undefined;
 
 var _koaResponseTime = require('koa-response-time');
 
@@ -59,7 +59,7 @@ exports.favicon = _koaFavicon2.default;
 exports.cors = _kcors2.default;
 exports.morgan = _koaMorgan2.default;
 exports.statics = _koaStatic2.default;
-exports.router = _koaRouter2.default;
+exports.Router = _koaRouter2.default;
 exports.bodyparser = _koaBodyparser2.default;
 exports.views = _koaViews2.default;
 
